@@ -1,46 +1,32 @@
-# 👋 Hei! Tervetuloa profiiliini
+# 👋 Hi! Welcome to my profile
 
-## 🌟 Tietoja minusta
+## 🌟 About Me
 
-- 🔭 Työskentelen parhaillaan: **[Projektisi nimi tai yrityksesi](#)**
-- 🌱 Opin tällä hetkellä: **[ohjelmointikielet tai teknologiat, joita opettelet](#)**
-- 💡 Kiinnostukseni kohteita: **[esim. tekoäly, avoin lähdekoodi, pelinkehitys](#)**
-- 🎯 Tavoitteenani on: **[esim. kehittää skaalautuvia ja käyttäjäystävällisiä sovelluksia](#)**
+- 🔭 Currently working on: **[koulu_projekti_Unity](#)**
+- 🌱 Currently learning: **[Unity, C#, Dart](#)**
+- 💡 Interests: **[AI, game/app development](#)**
+- 🎯 My goal: **[Make a game or app](#)**
 
-## 🛠️ Taidot ja teknologiat
+## 🛠️ Skills & Technologies
 
-### Kielitaito
-- 💻 **Ohjelmointikielet**: JavaScript, Python, Java, C++
-- 🌐 **Web-teknologiat**: HTML, CSS, React, Node.js
-- 📊 **Data-analytiikka**: SQL, Pandas, NumPy
+### Languages
+- 💻 **Programming Languages**: C#, Dart, JavaScript, HTML, CSS,
+- 🌐 **Web Technologies**: HTML, CSS, Angular, 
 
-### Työkalut
-- 🛠️ **Versionhallinta**: Git, GitHub
-- 🚀 **Pilvipalvelut**: AWS, Azure
-- 🧪 **Testaustyökalut**: Jest, Pytest
+### Tools
+- 🛠️ **Version Control**: Git, GitHub
+- 🤖 **AI Tools**: ChatGPT
 
-## 🚀 Projektit
+## 📈 Stats
 
-### [Projektin nimi 1](#)
-- 📝 Lyhyt kuvaus: Esim. "Rakensin monikielisen verkkosivun käyttäen Reactia ja Node.js:ää."
-- ⭐ **Pääteknologiat**: React, Node.js, PostgreSQL
-- 🔗 [Katso projekti](#)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joonaekmann&show_icons=true&theme=radical)
 
-### [Projektin nimi 2](#)
-- 📝 Lyhyt kuvaus: Esim. "Toteutin koneoppimismallin kuvan tunnistukseen käyttäen TensorFlow:ta."
-- ⭐ **Pääteknologiat**: Python, TensorFlow
-- 🔗 [Katso projekti](#)
+## 📫 Get in Touch
 
-## 📈 Statistiikka
-
-![GitHub-tilastoni](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-
-## 📫 Ota yhteyttä
-
-- 📧 Sähköposti: [sähköposti@domain.com](mailto:sähköposti@domain.com)
-- 💼 LinkedIn: [LinkedIn-profiilisi](#)
-- 🌐 Henkilökohtainen sivusto: [Sivustosi URL](#)
+- 📧 Email: [joona.ekmann@gmail.com]
+- 💼 LinkedIn: [Joona Ekman](https://www.linkedin.com/in/joona-ekman-b825a6329/)](#)
+- 🌐 Personal Website: [Coming soon!🔜](#)
 
 ---
 
-✨ Kiitos, että kävit profiilissani! Jos pidit siitä, muista ⭐ tähdittää projektejani. ✨
+✨ Thank you for visiting my profile! If you liked it, don't forget to ⭐ star my projects. ✨
