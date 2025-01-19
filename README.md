@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hei! Tervetuloa profiiliini
 
-<!--
-**JoonaEkmann/JoonaEkmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Tietoja minusta
 
-Here are some ideas to get you started:
+- 🔭 Työskentelen parhaillaan: **[Projektisi nimi tai yrityksesi](#)**
+- 🌱 Opin tällä hetkellä: **[ohjelmointikielet tai teknologiat, joita opettelet](#)**
+- 💡 Kiinnostukseni kohteita: **[esim. tekoäly, avoin lähdekoodi, pelinkehitys](#)**
+- 🎯 Tavoitteenani on: **[esim. kehittää skaalautuvia ja käyttäjäystävällisiä sovelluksia](#)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Taidot ja teknologiat
+
+### Kielitaito
+- 💻 **Ohjelmointikielet**: JavaScript, Python, Java, C++
+- 🌐 **Web-teknologiat**: HTML, CSS, React, Node.js
+- 📊 **Data-analytiikka**: SQL, Pandas, NumPy
+
+### Työkalut
+- 🛠️ **Versionhallinta**: Git, GitHub
+- 🚀 **Pilvipalvelut**: AWS, Azure
+- 🧪 **Testaustyökalut**: Jest, Pytest
+
+## 🚀 Projektit
+
+### [Projektin nimi 1](#)
+- 📝 Lyhyt kuvaus: Esim. "Rakensin monikielisen verkkosivun käyttäen Reactia ja Node.js:ää."
+- ⭐ **Pääteknologiat**: React, Node.js, PostgreSQL
+- 🔗 [Katso projekti](#)
+
+### [Projektin nimi 2](#)
+- 📝 Lyhyt kuvaus: Esim. "Toteutin koneoppimismallin kuvan tunnistukseen käyttäen TensorFlow:ta."
+- ⭐ **Pääteknologiat**: Python, TensorFlow
+- 🔗 [Katso projekti](#)
+
+## 📈 Statistiikka
+
+![GitHub-tilastoni](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+## 📫 Ota yhteyttä
+
+- 📧 Sähköposti: [sähköposti@domain.com](mailto:sähköposti@domain.com)
+- 💼 LinkedIn: [LinkedIn-profiilisi](#)
+- 🌐 Henkilökohtainen sivusto: [Sivustosi URL](#)
+
+---
+
+✨ Kiitos, että kävit profiilissani! Jos pidit siitä, muista ⭐ tähdittää projektejani. ✨
