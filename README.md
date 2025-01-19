@@ -17,10 +17,6 @@
 - 🛠️ **Version Control**: Git, GitHub
 - 🤖 **AI Tools**: ChatGPT
 
-## 📈 Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joonaekmann&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 
 - 📧 Email: [joona.ekmann@gmail.com]
