@@ -20,7 +20,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: [joona.ekmann@gmail.com]
-- 💼 LinkedIn: [Joona Ekman](https://www.linkedin.com/in/joona-ekman-b825a6329/)](#)
+- 💼 LinkedIn: [Joona Ekman](https://www.linkedin.com/in/joona-ekman-b825a6329/)
 - 🌐 Personal Website: [Coming soon!🔜](#)
 
 ---
