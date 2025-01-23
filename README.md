@@ -5,7 +5,7 @@
 - 🔭 Currently working on: **[koulu_projekti_Unity](#)**
 - 🌱 Currently learning: **[Unity, C#, Dart](#)**
 - 💡 Interests: **[AI, game/app development](#)**
-- 🎯 My goal: **[Make a game or app](#)**
+- 🎯 My goal: **[Make a game or an app](#)**
 
 ## 🛠️ Skills & Technologies
 
